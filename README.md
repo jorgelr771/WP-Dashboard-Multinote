@@ -16,7 +16,13 @@ Widget personalizado para el escritorio de WordPress que permite crear, editar y
 3. Activa el plugin desde el panel de WordPress
 
 ## Capturas (próximamente)
-<!-- Añade aquí 2-3 GIF o imágenes cuando las tengas -->
+Estado inicial del widget (sin notas creadas):
+
+![Widget vacío al activar el plugin](screenshots/captura1.jpeg)
+
+Con una nota creada y lista para editar o borrar:
+
+![Nota de ejemplo creada](screenshots/captura2.jpeg)
 
 ## Roadmap / ideas futuras
 - Ordenar notas por fecha o manualmente (drag & drop)
@@ -25,13 +31,3 @@ Widget personalizado para el escritorio de WordPress que permite crear, editar y
 - Minimizar / expandir notas
 
 Licencia: GPL-2.0-or-later
-
-## Capturas
-
-Estado inicial del widget (sin notas creadas):
-
-![Widget vacío al activar el plugin](screenshots/captura1.jpeg)
-
-Con una nota creada y lista para editar o borrar:
-
-![Nota de ejemplo creada](screenshots/captura2.jpeg)
