@@ -7,7 +7,7 @@ Widget personalizado para el escritorio de WordPress que permite crear, editar y
 - Creación instantánea con botón "+ Nueva nota"
 - Edición en tiempo real con feedback visual (Guardando... → Guardado ✓)
 - Borrado con confirmación y animación
-- Almacenamiento persistente con `update_option`
+- Almacenamiento persistente
 - Nonces y sanitización básica
 
 ## Instalación
