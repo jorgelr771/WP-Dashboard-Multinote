@@ -50,17 +50,6 @@ class WPCDW_Notes_Widget {
             $notes = [];
         }
 
-        // Nota de ejemplo solo para desarrollo / primera instalación (puedes comentarlo después)
-        if ( empty( $notes ) ) {
-            $notes = [
-                [
-                    'id'      => 'demo-1',
-                    'title'   => 'Nota de ejemplo',
-                    'content' => "Esto es lo primero que se ve.\n¡Vamos a hacer multinota!",
-                    'date'    => current_time( 'mysql' ),
-                ],
-            ];
-        }
         ?>
         <div id="wpcdw-notes-container">
             <?php foreach ( $notes as $note ) : ?>
