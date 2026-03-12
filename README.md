@@ -1,4 +1,4 @@
-# Dashboard Quick Notes
+# WP Dashboard Multinote
 
 Widget personalizado para el escritorio de WordPress que permite crear, editar y eliminar múltiples notas rápidas sin recargar la página (todo vía AJAX).
 
@@ -12,7 +12,7 @@ Widget personalizado para el escritorio de WordPress que permite crear, editar y
 
 ## Instalación
 1. Descarga o clona el repositorio
-2. Sube la carpeta `wp-custom-dashboard-widgets` a `/wp-content/plugins/`
+2. Sube la carpeta `wp-dashboard-multinote` a `/wp-content/plugins/`
 3. Activa el plugin desde el panel de WordPress
 
 ## Capturas
