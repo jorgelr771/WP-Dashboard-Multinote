@@ -15,7 +15,7 @@ Widget personalizado para el escritorio de WordPress que permite crear, editar y
 2. Sube la carpeta `wp-custom-dashboard-widgets` a `/wp-content/plugins/`
 3. Activa el plugin desde el panel de WordPress
 
-## Capturas (próximamente)
+## Capturas
 Estado inicial del widget (sin notas creadas):
 
 ![Widget vacío al activar el plugin](screenshots/captura1.jpeg)
