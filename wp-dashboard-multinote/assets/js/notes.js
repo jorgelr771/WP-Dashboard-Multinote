@@ -6,7 +6,7 @@ jQuery(document).ready(function($) {
     $(document).on('keydown', function(e) {
         // Ctrl + S  o  Cmd + S
         if ((e.ctrlKey || e.metaKey) && e.key === 's') {
-            e.preventDefault(); // ← muy importante
+            e.preventDefault();
 
             // Buscamos el elemento con foco dentro del contenedor de notas
             const $focused = $(document.activeElement);
@@ -22,7 +22,6 @@ jQuery(document).ready(function($) {
                     $saveButton.trigger('click');
                 }
             }
-            // Si no hay foco en ninguna nota → no hacemos nada (o podrías mostrar mensaje)
         }
     });
     
